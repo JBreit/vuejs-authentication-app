@@ -1,10 +1,3 @@
-<!-- <template>
-  <div id="app">
-    <img src="./assets/logo.png">
-    <router-view/>
-  </div>
-</template> -->
-
 <template>
   <div id="app" class="flex-center position-ref full-height">
     <NavBar/>
